@@ -19,4 +19,4 @@ All the distributions with GNOME support (such as Ubuntu 18.04 Bionic Beaver etc
 
 ### Dock Overview
 
-![Dock View](./screenshots/dock.png)
+![Dock View](./screenshots/dock-min.png)
