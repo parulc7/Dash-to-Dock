@@ -9,3 +9,14 @@
 ### Supported Distributions 
 
 All the distributions with GNOME support (such as Ubuntu 18.04 Bionic Beaver etc.)
+
+
+### Dash Overview 
+
+
+![Dash View](./screenshots/dash.jpeg)
+
+
+### Dock Overview
+
+![Dock View](./screenshots/dock.png)
